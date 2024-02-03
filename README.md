@@ -4,10 +4,9 @@
     <img src="https://user-images.githubusercontent.com/114832629/230302399-5d8f34e7-bfc5-4597-8fff-6293044f47bd.png" alt="react logo" width=230> 
 </div>
 
-- IT Entrepreneur
-- Chief Technology Officer at Helpoo
-- Software Instructor
-- More than 60k student around the world
+- Software Engineer.
+- Mobile Application Developer with 3 years of experience (Flutter Developer).
+- Exploring new technologies and developing software solutions and quick hacks.
 <hr>
 
 
