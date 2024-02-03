@@ -27,7 +27,7 @@ Download the app for free and join thousands of people around the world receivin
 <hr>
 
 ### Harajna
-Harajna application is an application for buying and selling all products safely and easily.
+"Harajna" is the ultimate buying and selling platform for all products, prioritizing safety and ease of use. With Harajna, users can securely buy and sell a wide range of items with confidence and convenience. Our app revolutionizes the online marketplace, providing a seamless and reliable experience for all users.
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.visooft.harajna" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/harajna/id6472904170" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
