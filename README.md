@@ -20,7 +20,7 @@
 
 <h2> Samples from my projects </h2>
 
-### Ejazah
+### Ejazah | إجازة
 
 "Ejazah" is a platform licensed by the Ministry of Tourism for holding joint tourism and entertainment events
 Download the app for free and join thousands of people around the world receiving offers for holiday homes, private residences, leisure events, and tourist trips. It also allows you to have a tour guide for a tour around the cities.
@@ -29,7 +29,7 @@ Download the app for free and join thousands of people around the world receivin
 
 <hr>
 
-### Harajna
+### Harajna | حراجنا
 "Harajna" is the ultimate buying and selling platform for all products, prioritizing safety and ease of use. With Harajna, users can securely buy and sell a wide range of items with confidence and convenience. Our app revolutionizes the online marketplace, providing a seamless and reliable experience for all users.
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.visooft.harajna" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/harajna/id6472904170" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
