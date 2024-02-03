@@ -56,15 +56,11 @@ Introducing our groundbreaking medical tools application, designed to streamline
 
 <hr>
 
-### BIOTIC | بَــيوتك
+### Mobella | موبيلا
 
-بَــيوتك، السوق الصحي الأول في السعودية وعلامة تجارية رائدة في مجال الصحة، والمتخصصة في جميع أنواع البدائل الصحية والحميات المتعددة والاكسسوارات التكميلية وأيضا منتجات العناية والتجميل.
+Mobella offers the premier platform for instant, online app creation and modification, requiring no prior experience. With Mobella, effortlessly design and customize your app, empowering you to launch and profit from your creations immediately. Experience the ease and convenience of app development like never before with Mobella.
 
-نسمي عملائنا " الناس الطيبة" وحبينا الآن نوصل للناس الطيبة من خلال تطبيقنا والتوفير عليهم عناء الزيارة للفروع مع الحرص على تقديم نفس مستوى الجودة بالخدمة المتاحة في الفروع.
-
-يتميز التطبيق باحتوائه على جميع المعلومات الخاصة بكل منتج من معلومات وطرق استخدام ومميزات، ويتيح للعميل أيضا خدمة التوصيل السريع والذي يشمل أيضا الأغذية الباردة والمثلجة. ويتميز بتقديم الهدايا بالاضافة الى الاهداء وتحديد النص المراد ارساله الكترونيًا ،كما تتميز خدمة التوصيل بسهولتها و تتيح للعميل تحديد الموقع من خلال التطبيق وتوفير عناء الوصف للمندوب!
-
-<p><a href="https://play.google.com/store/apps/details?id=com.biotic.customer" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/biotic-%D8%A8-%D9%80%D9%80%D9%8A%D9%88%D8%AA%D9%83/id6446063607" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.mobella.appcreator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
 <hr>
 
