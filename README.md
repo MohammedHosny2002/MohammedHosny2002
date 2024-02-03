@@ -7,8 +7,8 @@
 <hr>
 
 
-- business email : mohammedhosny009@gmail.com
-- personal email : mohammedhosny003@gmail.com
+- business email: mohammedhosny009@gmail.com
+- personal email: mohammedhosny003@gmail.com
 
   
 <p> <a href="https://www.facebook.com/El.Nadeem09?mibextid=9R9pXO" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><p>
@@ -21,8 +21,9 @@
 
 "Ejazah" is a platform licensed by the Ministry of Tourism for holding joint tourism and entertainment events
 Download the app for free and join thousands of people around the world receiving offers for holiday homes, private residences, leisure events and tourist trips. It also allows you to have a tour guide for a tour around the cities.
+
 Advantages:
-- The application allows you to benefit from the services provided and also allows you to offer your services to others in the following sections: vacation homes, shared homes, chalets and camps, events, travel groups, shopping, restaurants, and tour guide.
+- The application allows you to benefit from the services provided and also allows you to offer your services to others in the following sections: vacation homes, shared homes, chalets and camps, events, travel groups, shopping, restaurants, and tour guides.
 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.visoft.ejazah" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/ejazah-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9/id6463008785" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
