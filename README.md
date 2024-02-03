@@ -13,36 +13,19 @@
   
 <p> <a href="https://www.facebook.com/El.Nadeem09?mibextid=9R9pXO" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><p>
 
-<!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
-
-<!-- - whatsApp for bussines : http://Wa.me/201028205960
-- business email : abdullah@mansouracademy.net
-- personal email : abdullah.mansour97@gmail.com
-- facebook : https://www.facebook.com/abdullahmanss
-- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
-- instagram : https://www.instagram.com/abdullahmanss
-- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
 <hr>
 
 <h2> Samples from my projects </h2>
 
-### Helpoo
+### Ejazah
 
-لأمانك وأمان اسرتك علي الطريق، حمل الان اهم تطبيق علي الموبايل helpoo.co
-اول شركة مصرية مرخصة ومسجلة رسميًا: لمساعدة الطريق والاغاثة الذكية والقيام بإخطار الحادث فور وقوعة.
-متابعة سيارة الانقاذ في طريقها اليك لحظة بلحظة من خلال التطبيق موضحة علي خرائط جوجل، حيث ان جميع سيارات الانقاذ مزودة بوحدات تتبع واتصال كاملة.
-عدم حاجة العميل لمرافقة السيارة اثناء نقلها، حيث يمكنك متابعتها ايضا من خلال التطبيق،  كما يتم ايضا مراقبة السيارة اونلاين بكاميرات تصوير اثناء النقل. 
-تحديد تكلفة النقل الكترونيا ودون اي تدخل بشري، بناءً علي المسافة بالكيلومتر من خلال خرائط جوجل، وبدقة قبل بدء الخدمة من خلال التطبيق، دون اي ابتزاز او استغلالًا للموقف، قبل الموافقة والتأكيد علي طلب وحدة الانقاذ.
-مرونة كاملة في طرق الدفع؛ كاش او كريديت كارد او اونلاين مع فاتورة الكترونية.
-فريق اغاثة هلبو مؤهلين ومدربين علي التعامل مع كل مشاكل الطريق وايضا علي مساعدة العميل بشكلٍ احترافي في وقت قياسي.
-الاتصال بالعميل لتقييم الخدمة، فور الانتهاء منها، مع امكانية عمل التقيم من خلال التطبيق.
-عمل اخطار الحادث الكترونيا من خلال التطبيق، مع عمل جميع اجراءات العملية التأمينية حتي استلام السيارة بعد الاصلاح، دون الحاجة الي الاتصال بشركة التأمين او الوسيط، وذلك في حال ان السيارة مؤمن عليها.
-الخدمة متاحة علي مدار الساعة 24/7 وايضا خلال جميع ايام العطلات الرسمية.
-في حال الاتصال ب ١٧٠٠٠ لطلب الخدمة والتأكيد عليها، سوف يتم ارسال SMS للعميل ببيانات السائق ورابط تتبع سيارة الانقاذ.
-احرص علي تسجيل بياناتك وبيانات سيارتك الان، توفيرا للوقت عند حاجاتك العاجلة للخدمة عند لحظة ما.
-الشركة مقيدة بالهيئة العامة للرقابة المالية برقم ٨٤ بقرار رقم ١٥٧٨ لسنة ٢٠٢١
+"Ejazah" is a platform licensed by the Ministry of Tourism for holding joint tourism and entertainment events
+Download the app for free and join thousands of people around the world receiving offers for holiday homes, private residences, leisure events and tourist trips. It also allows you to have a tour guide for a tour around the cities.
+Advantages:
+- The application allows you to benefit from the services provided and also allows you to offer your services to others in the following sections: vacation homes, shared homes, chalets and camps, events, travel groups, shopping, restaurants, and tour guide.
 
-<p><a href="https://play.google.com/store/apps/details?id=com.helpoo.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/helpoo/id1627316561" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.visoft.ejazah" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/ejazah-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9/id6463008785" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
