@@ -20,20 +20,16 @@
 ### Ejazah
 
 "Ejazah" is a platform licensed by the Ministry of Tourism for holding joint tourism and entertainment events
-Download the app for free and join thousands of people around the world receiving offers for holiday homes, private residences, leisure events and tourist trips. It also allows you to have a tour guide for a tour around the cities.
-
-Advantages:
-- The application allows you to benefit from the services provided and also allows you to offer your services to others in the following sections: vacation homes, shared homes, chalets and camps, events, travel groups, shopping, restaurants, and tour guides.
-
+Download the app for free and join thousands of people around the world receiving offers for holiday homes, private residences, leisure events, and tourist trips. It also allows you to have a tour guide for a tour around the cities.
 
 <p><a href="https://play.google.com/store/apps/details?id=com.visoft.ejazah" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/ejazah-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9/id6463008785" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
-### Jameel
-Jameel (Salon at Home and Beauty Services) helps you discover the best beauty professionals near your home who will come at your doorstep to pamper you. Just download our app, pick a beauty service, date, time & location to book. A mobile beauty therapist will arrive at a time and place that suits you ready to deliver your chosen treatment using premium products & equipment. Our team of professional beauty therapists are trade-tested and fully vetted, with years of professional experience, so you can sit back and relax knowing you're in the best hands.
+### Harajna
+Harajna application is an application for buying and selling all products safely and easily.
 <p>
- <a href="https://play.google.com/store/apps/details?id=jameel.dmcc.client" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/jameel-salon-at-home/id1586524531" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ <a href="https://play.google.com/store/apps/details?id=com.visooft.harajna" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/harajna/id6472904170" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
