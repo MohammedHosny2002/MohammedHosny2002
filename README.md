@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mohammed Hosny 👋:Heart: </h2>
+<h2> Hi there, I'm Mohammed Hosny 👋 </h2>
 
 - IT Entrepreneur
 - Chief Technology Officer at Helpoo
