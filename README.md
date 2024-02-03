@@ -1,10 +1,9 @@
 <h2> Hi There, I'm Mohammed Hosny 👋 </h2>
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+<hr>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/114832629/230302399-5d8f34e7-bfc5-4597-8fff-6293044f47bd.png" alt="react logo" width=230> 
-   
 </div>
 
 - IT Entrepreneur
