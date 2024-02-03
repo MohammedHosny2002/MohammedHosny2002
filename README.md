@@ -19,6 +19,8 @@
 <hr>
 
 <h2> Samples from my projects </h2>
+### 🛠 &nbsp;Samples from my projects
+### 🛠 &nbsp;𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ### Ejazah
 
