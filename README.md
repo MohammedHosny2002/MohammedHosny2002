@@ -69,8 +69,8 @@ Mobella offers the premier platform for instant, online app creation and modific
 
 ### 🛠 &nbsp;𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;
-![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=Github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Stuido](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
-![Xcode](https://img.shields.io/badge/-XCode-05122A?style=flat&logo=xcode)&nbsp;
+![dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=Github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Stuido](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=android-studio)&nbsp;
+![Xcode](https://img.shields.io/badge/-XCode-05122A?style=for-the-badge&logo=xcode)&nbsp;
