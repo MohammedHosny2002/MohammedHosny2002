@@ -68,7 +68,7 @@ Mobella offers the premier platform for instant, online app creation and modific
 
  <hr>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=Github)&nbsp;
