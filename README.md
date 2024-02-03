@@ -33,14 +33,13 @@ Harajna application is an application for buying and selling all products safely
 
 <hr>
 
-### Tekram
-Tekram encompasses everything good about cleaning. We deliver the highest-quality cleaning service to our clients using skilled professionals who are versatile and adept in handling any household task. This has made it possible for us to provide disparate services like residential cleaning services.
+### Supmedical
+Introducing our groundbreaking medical tools application, designed to streamline access to essential supplies from top-rated stores. Our platform offers users unparalleled convenience, connecting them with renowned and trustworthy suppliers for the best service and prices. Revolutionizing the way medical tools are sourced and purchased, we're dedicated to enhancing efficiency and accessibility in the healthcare industry.
 
-We are here to solve all your cleaning issues. We take up this responsibility gladly, giving you time to focus on better things in your life. We provide the highest-class cleaning service in Dubai, giving you nothing short of unmatched quality service.
 <p>
 
-  <a href="https://play.google.com/store/apps/details?id=com.tekram.app.tekram" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-<a href="https://apps.apple.com/us/app/tekram-home-cleaning-service/id1642682373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+  <a href="https://play.google.com/store/apps/details?id=com.visooft.supmedical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/us/app/supmedical/id6470377732" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
