@@ -323,8 +323,8 @@ pie title Skills Distribution
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarSaeed20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSaeed20&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedHosny20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHosny20&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
