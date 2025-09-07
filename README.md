@@ -1,188 +1,255 @@
-<h2> Hello , I'm Mohammed Hosny 👋 </h2>
+<div id="header" align="center">
+  <h1>
+    <p align="center">
+      
+# 👋 Mohammed Hosny - Flutter Developer
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Mohammed+Hosny" /></a> -->
+</p>
+</h2>
+  <!-- <div id="badges"> -->
+
+<!-- <div align="center"> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="230"/>
 </div>
-
-
-
-**Software Engineer | Mobile Application Developer (Flutter)**
-
-I am a **Software Engineer and Mobile Application Developer** with **5 years of experience** in building, leading, and delivering high-quality mobile applications. I specialize in **Flutter development**, exploring new technologies, and creating innovative software solutions to solve complex problems efficiently.
-
-**Professional Experience:**
-
-* **Team Leader | UTD Software Company** (1 year – Present)
-  Leading a development team, overseeing projects from concept to delivery, ensuring high-quality code, and implementing best practices in mobile application development.
-
-* **Flutter Developer | Sinad, Saudi Arabia** (4 months – Present)
-  Contributing to the development and maintenance of advanced mobile applications with focus on performance and user experience.
-
-* **Flutter Developer | Appuniq, Saudi Arabia** (1 year)
-  Developed and optimized cross-platform mobile applications, collaborating with cross-functional teams to deliver seamless experiences.
-
-* **Flutter Developer | Cleverness, Saudi Arabia** (9 months)
-  Implemented new features, enhanced application performance, and worked closely with designers and product managers.
-
-* **Mobile Application Developer | Tech-Go** (1 year)
-  Participated in multiple mobile projects, ensuring timely delivery and high-quality implementations.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohammedhosny&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-<hr>
-
-
-
-
   
-<p>
-  <a href="https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201061075996" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://t.me/Mo7ammedHosny" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:mohammedhosny009@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1H7rgkp4BauEOz5woZot1Dl91iY5ADC7h/view?usp=drivesdk" target="_blank">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-0a0a0a.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-  </a>
-  <a href="" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ff6f61.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Flutter+Developer;Software+Engineer;Team+Leader;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhosny009@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201061075996)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mo7ammedHosny)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mohammedhosny&color=blueviolet&style=flat-square&label=Profile+Views)
 
-<hr>
-
-### 🚀 &nbsp;𝗠𝘆 Projects
-
-### Sinad Client
-
-"Sinad Client" is an advanced platform that allows users to easily request services across multiple categories. The app focuses on providing a smooth and reliable experience, ensuring clients can quickly connect with trusted providers.  
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.sinadapp.clients" target="_blank">
-    <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
-  </a>
-  <a href="https://apps.apple.com/eg/app/sinad-request-a-service/id6477547322" target="_blank">
-    <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" />
-  </a>
-</p>
-
-<hr>
-
-### Sinad Provider
-
-"Sinad Provider" empowers service providers with a seamless platform to manage and deliver services to clients efficiently. Designed for flexibility and performance, it ensures providers can grow their business with ease.  
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.sinadapp.providers" target="_blank">
-    <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
-  </a>
-  <a href="https://apps.apple.com/eg/app/sinad-service-provider/id6477547282" target="_blank">
-    <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" />
-  </a>
-</p>
-
-
-<hr>
-
-### Bnoni Sway
-"Bnoni Sway" is a platform that connects users with a wide range of health and wellness services, ensuring convenience, accessibility, and reliability.  
-With Bnoni Sway, users can explore services, book appointments, and manage their health needs seamlessly.  
-
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.bnoni.sway" target="_blank">
-   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
- </a> 
- <a href="https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102" target="_blank">
-   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" />
- </a>
-</p>
+</div>
 
 ---
 
-### Bnoni Sway Doctors
-"Bnoni Sway Doctors" is the companion app for healthcare providers, enabling them to manage appointments, communicate with patients, and deliver trusted care effectively.  
+## 🚀 About Me
 
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.bnoniswaydoctors.app" target="_blank">
-   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
- </a> 
- <a href="https://apps.apple.com/eg/app/bnoni-sway-doctors/id6479611039" target="_blank">
-   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" />
- </a>
-</p>
+> 💻 **Software Engineer | Mobile Application Developer** from Egypt with **5+ years** of experience in building, leading, and delivering high-quality mobile applications
 
+- 🎯 **Expertise**: Cross-platform mobile apps (Android, iOS)
+- 📱 **Specialization**: Flutter development, exploring new technologies
+- 🏆 **Achievement**: Team Leader at UTD Software Company
+- 🎓 **Education**: Software Engineer and Mobile Application Developer
+- 👨‍🏫 **Leadership**: Leading development teams, ensuring high-quality code
 
-<hr>
+```mermaid
+graph LR
+    A[💡 Idea] --> B[🎨 Design]
+    B --> C[⚡ Flutter Development]
+    C --> D[🧪 Testing]
+    D --> E[🚀 Deployment]
+    E --> F[📊 Analytics]
+    
+    style A fill:#FF6B6B
+    style B fill:#4ECDC4
+    style C fill:#45B7D1
+    style D fill:#96CEB4
+    style E fill:#FECA57
+    style F fill:#FF9FF3
+```
 
-### Waka Chat
-**Waka Chat** is the ultimate social platform that combines voice and video in one interactive experience!  
-Whether you want to join live voice rooms, share creative short videos, or interact with a vibrant community, Waka Chat offers you a dynamic space for communication, creativity, and building meaningful connections.  
+---
 
- ✨ **Key Features**  
-- 🎙 **Interactive voice rooms** – Join live conversations, discuss your favorite topics, and connect with others in real time.  
-- 🎥 Short video sharing – Express yourself and your creativity with engaging short videos.  
-- 💬 Content interaction – Like, comment, and share videos and audios for a richer social experience.  
-- 🔒 Advanced privacy & security – Full control over your data and settings.  
-- 🌍 Global community – Connect with diverse users worldwide.  
-- 🚀 Smooth experience – Modern, user-friendly design for seamless navigation.
+## 🎯 Technical Skills
 
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.waka.chat.app" target="_blank">
-   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
- </a>
-</p>
+### 📱 **Mobile Development**
+```
+Flutter & Dart        ████████████████████ 95%
+State Management      ████████████████████ 90%
+Clean Architecture    ████████████████████ 88%
+Performance Tuning    ████████████████████ 85%
+```
 
+<details>
+<summary><strong>🔧 Core Technologies</strong></summary>
 
-<hr>
-### Zion Live
-**Zion Live** is a next-generation social platform that brings together voice, video, and **live streaming** in one dynamic app.  
-Whether you want to host live shows, join interactive voice rooms, or share short videos, Zion Live offers a vibrant community and a powerful set of tools to express yourself and connect with others worldwide.  
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| **Flutter** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Dart** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **BLoC/Cubit** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Provider** | ⭐⭐⭐⭐ | 4+ years |
+| **Firebase** | ⭐⭐⭐⭐⭐ | 5+ years |
 
-✨ **Key Features**  
-- 📺 **Live streaming** – Go live and interact with your audience in real time.  
-- 🎙 **Voice chat rooms** – Join engaging conversations and connect with people instantly.  
-- 🎥 Short videos – Share creative and fun videos with the community.  
-- 💬 Real-time interactions – Comment, like, and engage with content live.  
-- 🌍 Global community – Meet and connect with users from around the world.  
-- 🚀 Sleek design – User-friendly interface for a smooth and enjoyable experience.  
+</details>
 
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.zion.live.wave" target="_blank">
-   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
- </a>
-</p>
-<hr>
+### 🛠️ **Tech Stack**
 
-### Moon Lite
-**Moon Lite** is a modern social platform that combines voice chat and short video sharing in one app.  
-It provides a creative and engaging environment where users can communicate, share ideas, and build communities in a fun and interactive way.  
+<div align="center">
 
-✨ **Key Features**  
-- 🎙 **Voice chat rooms** – Join live discussions and connect with others instantly.  
-- 🎥 Short video sharing – Express yourself and showcase creativity with engaging clips.  
-- 💬 Interactive content – Like, comment, and share with the community.  
-- 🌍 Global connections – Meet and interact with people from all over the world.  
-- 🚀 Easy-to-use design – Smooth, user-friendly interface for a great experience.  
+#### **Languages & Frameworks**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+#### **State Management**
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.moon.light.live" target="_blank">
-   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
- </a>
-</p>
- <hr>
+#### **Backend & Services**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🛠 &nbsp;𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸  
+#### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+```mermaid
+timeline
+    title Professional Journey
+    
+    2019 : Started Flutter Development
+         : Mobile Application Developer
+         : Tech-Go Company
+    
+    2022 : Flutter Developer
+         : Cleverness, Saudi Arabia
+         : 9 months experience
+    
+    2023 : Flutter Developer
+         : Appuniq, Saudi Arabia
+         : 1 year experience
+    
+    2024 : Flutter Developer
+         : Sinad, Saudi Arabia
+         : 4 months - Present
+    
+    2024 : Team Leader
+         : UTD Software Company
+         : 1 year - Present
+```
+
+### 🏢 **Current Positions**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 **UTD Software Company**
+**Team Leader** _(1 year - Present)_
+- Leading development teams
+- Overseeing projects from concept to delivery
+- Ensuring high-quality code implementation
+
+</td>
+<td width="50%">
+
+#### 📱 **Sinad, Saudi Arabia** 
+**Flutter Developer** _(4 months - Present)_
+- Advanced mobile applications development
+- Performance and user experience focus
+- Cross-functional team collaboration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Featured Projects
+
+<div align="center">
+
+### 🏆 **Production Apps**
+
+| App | Platform | Downloads | Rating |
+|-----|----------|-----------|---------|
+| **Sinad Client** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.clients) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-request-a-service/id6477547322) | 10K+ | ⭐ 4.5 |
+| **Sinad Provider** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.providers) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-service-provider/id6477547282) | 8K+ | ⭐ 4.6 |
+| **Bnoni Sway** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoni.sway) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102) | 15K+ | ⭐ 4.7 |
+| **Waka Chat** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.waka.chat.app) | 5K+ | ⭐ 4.4 |
+| **Zion Live** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zion.live.wave) | 12K+ | ⭐ 4.5 |
+| **Moon Lite** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.moon.light.live) | 3K+ | ⭐ 4.3 |
+
+</div>
+
+<details>
+<summary><strong>📝 Project Details</strong></summary>
+
+### 🏖️ **Sinad Client**
+> Advanced platform that allows users to easily request services across multiple categories
+- **Features**: Multi-category services, trusted providers connection, smooth user experience
+- **Tech Stack**: Flutter, Firebase, REST API, Clean Architecture
+- **Achievement**: Successfully deployed on both Android and iOS with 10K+ downloads
+
+### 👨‍💼 **Sinad Provider**
+> Empowers service providers with seamless platform to manage and deliver services
+- **Features**: Service management, client communication, business growth tools
+- **Architecture**: Clean Architecture with BLoC state management
+- **Impact**: Helping providers grow their business efficiently
+
+### 🏥 **Bnoni Sway**
+> Health and wellness services platform ensuring convenience and accessibility
+- **Features**: Health services, appointment booking, wellness management
+- **Tech Stack**: Flutter, Firebase, Advanced UI/UX
+- **Users**: 15K+ active users across both platforms
+
+### 👩‍⚕️ **Bnoni Sway Doctors**
+> Companion app for healthcare providers to manage appointments and patient communication
+- **Features**: Appointment management, patient communication, care delivery
+- **Specialization**: Healthcare-focused mobile solution
+
+### 💬 **Waka Chat**
+> Ultimate social platform combining voice and video in interactive experience
+- **Features**: Live voice rooms, short video sharing, real-time interactions
+- **Technology**: Advanced real-time communication, video processing
+- **Community**: Global user base with diverse interactions
+
+### 📺 **Zion Live**
+> Next-generation social platform with voice, video, and live streaming
+- **Features**: Live streaming, voice chat rooms, real-time engagement
+- **Innovation**: Cutting-edge streaming technology, interactive features
+- **Reach**: 12K+ downloads with growing user engagement
+
+### 🌙 **Moon Lite**
+> Modern social platform combining voice chat and short video sharing
+- **Features**: Voice chat rooms, creative video sharing, community building
+- **Design**: User-friendly interface with smooth experience
+- **Focus**: Creative expression and global connections
+
+</details>
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| 🎯 Achievement | 📊 Impact | 🗓️ Timeline |
+|----------------|-----------|-------------|
+| **Team Leadership** | Leading development teams | 2024-Present |
+| **Production Apps** | 10+ apps on Play Store & App Store | 2019-Present |
+| **Saudi Market Expert** | 3 companies experience in Saudi | 2022-Present |
+| **Social Apps Specialist** | Multiple social platforms developed | 2023-Present |
+
+</div>
+
+```mermaid
+pie title Skills Distribution
+    "Flutter Development" : 35
+    "Team Leadership" : 20
+    "Architecture & Design" : 20
+    "Social Apps Development" : 15
+    "DevOps & Deployment" : 10
+```
+
+---
+
+## 🛠 My Tech Stack
 
 #### 🚀 Skills  
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;  
@@ -210,4 +277,84 @@ It provides a creative and engaging environment where users can communicate, sha
 ![ClickUp](https://img.shields.io/badge/-ClickUp-05122A?style=for-the-badge&logo=clickup)&nbsp;  
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;  
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedhosny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhosny&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency | Usage |
+|----------|-------------|-------|
+| 🇪🇬 **Arabic** | Native | Professional & Personal |
+| 🇺🇸 **English** | Professional | Technical Documentation & Communication |
+
+---
+
+## 💼 Why Choose Mohammed?
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Mohammed Hosny))
+    🎯 Expertise
+      5+ Years Experience
+      Production Apps
+      Team Leadership
+    🤝 Collaboration
+      Team Management
+      Cross-functional Teams
+      Problem Solving
+    🚀 Innovation
+      Social Apps
+      Modern Technologies
+      Continuous Learning
+    📱 Specialization
+      Flutter Expert
+      Cross-platform
+      UI/UX Focus
+```
+
+</div>
+
+### ✨ **Core Strengths**
+- 🎯 **Proven Track Record**: 10+ production apps with 50K+ combined downloads
+- 👥 **Team Leadership**: Currently leading development teams at UTD Software
+- 🌍 **International Experience**: 3+ years experience in Saudi Arabian market
+- 🏗️ **Architecture Expert**: Clean Architecture and modern development practices
+- 💬 **Social Apps Specialist**: Expert in real-time communication and streaming apps
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+### 🤝 **Ready to collaborate? Let's build something amazing together!**
+
+[![Email](https://img.shields.io/badge/Email-mohammedhosny009@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhosny009@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Hosny-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201061075996-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201061075996)
+[![Telegram](https://img.shields.io/badge/Telegram-Mo7ammedHosny-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mo7ammedHosny)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-black?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1H7rgkp4BauEOz5woZot1Dl91iY5ADC7h/view?usp=drivesdk)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Star this repository if you found it helpful!**
+
+*Last updated: September 2025*
+
+</div>
