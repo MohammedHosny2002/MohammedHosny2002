@@ -55,7 +55,7 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
 
 <hr>
 
-###  &nbsp;𝗠𝘆 Projects
+### 🛠 &nbsp;𝗠𝘆 Projects
 
 ### Ejazah | إجازة
 
