@@ -88,10 +88,33 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
 
 <hr>
 
-### Harajna | حراجنا
-"Harajna" is the ultimate buying and selling platform for all products, prioritizing safety and ease of use. With Harajna, users can securely buy and sell a wide range of items with confidence and convenience. Our app revolutionizes the online marketplace, providing a seamless and reliable experience for all users.
+### Bnoni Sway
+"Bnoni Sway" is a platform that connects users with a wide range of health and wellness services, ensuring convenience, accessibility, and reliability.  
+With Bnoni Sway, users can explore services, book appointments, and manage their health needs seamlessly.  
+
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.visooft.harajna" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/harajna/id6472904170" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ <a href="https://play.google.com/store/apps/details?id=com.bnoni.sway" target="_blank">
+   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+ </a> 
+ <a href="https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102" target="_blank">
+   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+ </a>
+</p>
+
+---
+
+### Bnoni Sway Doctors
+"Bnoni Sway Doctors" is the companion app for healthcare providers, enabling them to manage appointments, communicate with patients, and deliver trusted care effectively.  
+
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.bnoniswaydoctors.app" target="_blank">
+   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+ </a> 
+ <a href="https://apps.apple.com/eg/app/bnoni-sway-doctors/id6479611039" target="_blank">
+   <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+ </a>
+</p>
+
 
 <hr>
 
