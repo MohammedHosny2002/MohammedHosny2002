@@ -4,9 +4,35 @@
     <img src="https://user-images.githubusercontent.com/114832629/230302399-5d8f34e7-bfc5-4597-8fff-6293044f47bd.png" alt="react logo" width=230> 
 </div>
 
-- Software Engineer.
-- Mobile Application Developer with 3 years of experience (Flutter Developer).
-- Exploring new technologies and developing software solutions and quick hacks.
+**Software Engineer | Mobile Application Developer (Flutter)**
+
+I am a **Mobile Application Developer** with **3+ years of hands-on experience** specializing in **Flutter**. Passionate about exploring new technologies, delivering scalable software solutions, and creating efficient quick hacks to solve real-world challenges.
+
+**Professional Experience:**
+
+* **Team Leader | UTD Software Company** (1 year – Present)
+  Leading a development team, ensuring best practices, clean architecture, and high-performance mobile solutions.
+
+* **Flutter Developer | Sinad, Saudi Arabia** (4 months – Present)
+  Developing and maintaining advanced mobile applications with focus on performance and usability.
+
+* **Flutter Developer | Appuniq, Saudi Arabia** (1 year)
+  Built and optimized cross-platform mobile apps, delivering seamless user experiences.
+
+* **Flutter Developer | Cleverness, Saudi Arabia** (9 months)
+  Designed and implemented mobile features, collaborating closely with product and design teams.
+
+* **Mobile Application Developer | Tech-Go** (1 year)
+  Contributed to multiple mobile projects, ensuring clean code and efficient delivery.
+
+**Key Skills:**
+
+* Flutter & Dart (cross-platform development)
+* State Management (BLoC, Provider, GetX)
+* RESTful APIs & Firebase Integration
+* Hive & Local Database Management
+* Clean Architecture & SOLID Principles
+* Team Leadership & Agile Methodologies
 <hr>
 
 
