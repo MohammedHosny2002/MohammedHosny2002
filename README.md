@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+
 <div style="font-family: 'Noto Sans', sans-serif;">
 <h2> Hello , I'm Mohammed Hosny 👋 </h2>
 
