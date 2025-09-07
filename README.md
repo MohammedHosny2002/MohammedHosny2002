@@ -270,7 +270,7 @@ timeline
 | 🎯 Achievement | 📊 Impact | 🗓️ Timeline |
 |----------------|-----------|-------------|
 | **Team Leadership** | Leading development teams | 2024-Present |
-| **Production Apps** | 10+ apps on Play Store & App Store | 2019-Present |
+| **Production Apps** | 10+ apps on Play Store & App Store | 2020-Present |
 | **Saudi Market Expert** | 3 companies experience in Saudi | 2022-Present |
 | **Social Apps Specialist** | Multiple social platforms developed | 2023-Present |
 
