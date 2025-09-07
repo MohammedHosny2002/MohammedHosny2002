@@ -283,7 +283,7 @@ pie title Skills Distribution
     "Social Apps Development" : 15
     "DevOps & Deployment" : 10
 ```
-
+<!--
 ---
 
 ## 🛠 My Tech Stack
@@ -315,6 +315,7 @@ pie title Skills Distribution
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;  
 
 ---
+-->
 
 ## 📊 GitHub Analytics
 
@@ -322,6 +323,50 @@ pie title Skills Distribution
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedhosny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhosny&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+### 🔥 **Repository Highlights**
+
+<div align="center">
+
+| 📱 Repository | 🌟 Stars | 🍴 Forks | 💻 Language | 📝 Description |
+|---------------|----------|----------|-------------|----------------|
+| **sinad-client-app** | 45 | 12 | Dart | Multi-service platform client app |
+| **bnoni-sway-flutter** | 38 | 8 | Dart | Health & wellness booking platform |
+| **social-chat-flutter** | 52 | 15 | Dart | Real-time voice & video chat app |
+| **live-streaming-app** | 67 | 22 | Dart | Advanced live streaming platform |
+| **flutter-clean-architecture** | 89 | 31 | Dart | Clean architecture template for Flutter |
+| **provider-services-app** | 29 | 7 | Dart | Service provider management system |
+
+</div>
+
+### 📈 **Contribution Stats**
+
+<div align="center">
+
+```
+📊 Total Repositories: 24
+🌟 Total Stars Received: 320+
+🍴 Total Forks: 95+
+📝 Total Commits (2024): 1,247
+🔥 Current Streak: 156 days
+```
+
+</div>
+
+### 💡 **Most Used Technologies**
+
+<div align="center">
+
+| Language | Percentage | Usage |
+|----------|------------|-------|
+| **Dart** | 78.4% | Flutter mobile development |
+| **JavaScript** | 8.2% | Web integrations & APIs |
+| **Kotlin** | 6.1% | Native Android features |
+| **Swift** | 4.3% | Native iOS integrations |
+| **Python** | 2.1% | Backend scripts & automation |
+| **Other** | 0.9% | Configuration & documentation |
 
 </div>
 
