@@ -182,11 +182,29 @@ It provides a creative and engaging environment where users can communicate, sha
 </p>
  <hr>
 
-### 🛠 &nbsp;𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;
-![dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=Github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Stuido](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=android-studio)&nbsp;
-![Xcode](https://img.shields.io/badge/-XCode-05122A?style=for-the-badge&logo=xcode)&nbsp;
+### 🛠 &nbsp;𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸  
+
+#### 🚀 Skills  
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;  
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)&nbsp;  
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;  
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=for-the-badge&logo=supabase)&nbsp;  
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=for-the-badge&logo=fastapi)&nbsp;  
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;  
+![Hive](https://img.shields.io/badge/-Hive-05122A?style=for-the-badge&logo=hive)&nbsp;  
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=for-the-badge&logo=vercel)&nbsp;  
+![Bloc](https://img.shields.io/badge/-BLoC-05122A?style=for-the-badge&logo=flutter)&nbsp;  
+![Provider](https://img.shields.io/badge/-Provider-05122A?style=for-the-badge&logo=flutter)&nbsp;  
+![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-05122A?style=for-the-badge&logo=testinglibrary)&nbsp;  
+![UI/UX](https://img.shields.io/badge/-UI%2FUX-05122A?style=for-the-badge&logo=figma)&nbsp;  
+
+#### 🧰 Tools  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=android-studio)&nbsp;  
+![Xcode](https://img.shields.io/badge/-XCode-05122A?style=for-the-badge&logo=xcode)&nbsp;  
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman)&nbsp;  
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=for-the-badge&logo=jira)&nbsp;  
+
 
