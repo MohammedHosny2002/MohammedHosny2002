@@ -1,3 +1,4 @@
+<div style="font-family: 'Noto Sans', sans-serif;">
 <h2> Hello , I'm Mohammed Hosny 👋 </h2>
 
 <div align="center">
@@ -27,9 +28,6 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
   Participated in multiple mobile projects, ensuring timely delivery and high-quality implementations.
 
 <hr>
-
-
-- Business email: mohammedhosny009@gmail.com
 
   
 <p>
@@ -109,3 +107,5 @@ Mobella offers the premier platform for instant, online app creation and modific
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Stuido](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=android-studio)&nbsp;
 ![Xcode](https://img.shields.io/badge/-XCode-05122A?style=for-the-badge&logo=xcode)&nbsp;
+
+</div>
