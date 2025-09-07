@@ -29,11 +29,27 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
 <hr>
 
 
-- business email: mohammedhosny009@gmail.com
-- personal email: mohammedhosny003@gmail.com
+- Business email: mohammedhosny009@gmail.com
 
   
-<p> <a href="https://www.facebook.com/El.Nadeem09?mibextid=9R9pXO" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><p>
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201061075996" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/Mo7ammedHosny" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:mohammedhosny009@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1H7rgkp4BauEOz5woZot1Dl91iY5ADC7h/view?usp=drivesdk" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-0a0a0a.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+  </a>
+</p>
+
 
 <hr>
 
