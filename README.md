@@ -153,7 +153,7 @@ timeline
          : Cleverness, Saudi Arabia
          : 9 months experience
 
-    2023 : Started Flutter Development
+    2023 : Flutter Developer
          : Mobile Application Developer
          : Tech-Go Company
     
@@ -161,13 +161,13 @@ timeline
          : Appuniq, Saudi Arabia
          : 1 year experience
     
-    2024 : Flutter Developer
-         : Sinad, Saudi Arabia
-         : 4 months - Present
-    
     2024 : Team Leader
          : UTD Software Company
          : 1 year - Present
+
+    2025 : Flutter Developer
+         : Sinad, Saudi Arabia
+         : 4 months - Present
 ```
 
 ### 🏢 **Current Positions**
