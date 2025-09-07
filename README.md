@@ -131,7 +131,7 @@ Whether you want to join live voice rooms, share creative short videos, or inter
 - 🚀 Smooth experience – Modern, user-friendly design for seamless navigation.  
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/N5dlYRWQW1QWzQk8p4aEmP25hVjK6WqjM8nU5QpxJz4ZzJfFQkXJ3ZBzU_8U4xgU0g=w240-h480-rw" alt="Waka Chat Logo" width="150"/>
+  <img src="[https://play-lh.googleusercontent.com/N5dlYRWQW1QWzQk8p4aEmP25hVjK6WqjM8nU5QpxJz4ZzJfFQkXJ3ZBzU_8U4xgU0g=w240-h480-rw](https://play-lh.googleusercontent.com/KYN7fqrAif3eGM0-9W3sbKft0cLYyIkEy0lzBiIZRXiKNgkdhwxsQYaRbxRZhzd8WGGd8_T4b5FI3QhLXu7n=w480-h960-rw)" alt="Waka Chat Logo" width="150"/>
 </p>
 
 <p>
