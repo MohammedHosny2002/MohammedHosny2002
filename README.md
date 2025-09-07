@@ -315,96 +315,16 @@ pie title Skills Distribution
 ![ClickUp](https://img.shields.io/badge/-ClickUp-05122A?style=for-the-badge&logo=clickup)&nbsp;  
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;  
 
----
 -->
+---
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-### 📈 **GitHub Stats Overview**
-
-<table>
-<tr>
-<td align="center">
-
-**⭐ Public Repositories**  
-**24**
-
-</td>
-<td align="center">
-
-**🌟 Total Stars**  
-**320+**
-
-</td>
-<td align="center">
-
-**🍴 Total Forks**  
-**95+**
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**📝 Total Commits (2024)**  
-**1,247**
-
-</td>
-<td align="center">
-
-**🔥 Current Streak**  
-**156 days**
-
-</td>
-<td align="center">
-
-**👥 Followers**  
-**89**
-
-</td>
-</tr>
-</table>
-
-### 💻 **Languages Distribution**
-
-```
-Dart        ████████████████████████████████████████ 78.4%
-JavaScript  ████████ 8.2%
-Kotlin      ██████ 6.1%
-Swift       ████ 4.3%
-Python      ██ 2.1%
-Other       █ 0.9%
-```
-
-</div>
-
-### 📈 **Activity Summary**
-
-<div align="center">
-
-| 📊 Metric | 2024 | 2023 | Total |
-|-----------|------|------|-------|
-| **Commits** | 1,247 | 892 | 3,456+ |
-| **Pull Requests** | 67 | 45 | 189 |
-| **Issues Opened** | 23 | 31 | 78 |
-| **Code Reviews** | 156 | 89 | 312 |
-
-</div>
-
-### 💡 **Most Used Technologies**
-
-<div align="center">
-
-| Language | Percentage | Lines of Code | Projects |
-|----------|------------|---------------|----------|
-| **Dart** | 78.4% | 125,000+ | 18 |
-| **JavaScript** | 8.2% | 12,500+ | 4 |
-| **Kotlin** | 6.1% | 8,900+ | 3 |
-| **Swift** | 4.3% | 6,200+ | 2 |
-| **Python** | 2.1% | 3,100+ | 3 |
-| **Other** | 0.9% | 1,200+ | 2 |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarSaeed20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSaeed20&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
