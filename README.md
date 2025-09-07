@@ -76,6 +76,22 @@ Performance Tuning    ███████████████████�
 | **BLoC/Cubit** | ⭐⭐⭐⭐⭐ | 4+ years |
 | **Provider** | ⭐⭐⭐⭐ | 4+ years |
 | **Firebase** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Supabase** | ⭐⭐⭐⭐ | 3+ years |
+| **REST API** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **SQLite** | ⭐⭐⭐⭐ | 4+ years |
+| **Hive** | ⭐⭐⭐⭐ | 3+ years |
+| **Clean Architecture** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Unit Testing** | ⭐⭐⭐⭐ | 3+ years |
+| **UI/UX Design** | ⭐⭐⭐⭐ | 5+ years |
+| **Git Version Control** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Android Studio** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **VS Code** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Xcode** | ⭐⭐⭐⭐ | 4+ years |
+| **Postman** | ⭐⭐⭐⭐ | 4+ years |
+| **Jira** | ⭐⭐⭐⭐ | 3+ years |
+| **Trello** | ⭐⭐⭐⭐ | 4+ years |
+| **ClickUp** | ⭐⭐⭐ | 2+ years |
+| **Notion** | ⭐⭐⭐⭐ | 3+ years |
 
 </details>
 
@@ -96,11 +112,31 @@ Performance Tuning    ███████████████████�
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=postman&logoColor=white)
 
+#### **Database & Storage**
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFA500?style=for-the-badge&logo=apache&logoColor=white)
+
+#### **Architecture & Testing**
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-22C55E?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### **Project Management**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+#### **Design & UI/UX**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 </div>
 
