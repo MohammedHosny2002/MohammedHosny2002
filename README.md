@@ -55,7 +55,7 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
 
 <hr>
 
-### 🛠 &nbsp;𝗠𝘆 Projects
+### 🚀 &nbsp;𝗠𝘆 Projects
 
 ### Sinad Client
 
@@ -122,17 +122,13 @@ With Bnoni Sway, users can explore services, book appointments, and manage their
 **Waka Chat** is the ultimate social platform that combines voice and video in one interactive experience!  
 Whether you want to join live voice rooms, share creative short videos, or interact with a vibrant community, Waka Chat offers you a dynamic space for communication, creativity, and building meaningful connections.  
 
-✨ **Key Features**  
-- 🎙 Interactive voice rooms – Join live conversations, discuss your favorite topics, and connect with others in real time.  
+ ✨ **Key Features**  
+- 🎙 **Interactive voice rooms** – Join live conversations, discuss your favorite topics, and connect with others in real time.  
 - 🎥 Short video sharing – Express yourself and your creativity with engaging short videos.  
 - 💬 Content interaction – Like, comment, and share videos and audios for a richer social experience.  
 - 🔒 Advanced privacy & security – Full control over your data and settings.  
 - 🌍 Global community – Connect with diverse users worldwide.  
-- 🚀 Smooth experience – Modern, user-friendly design for seamless navigation.  
-
-<p align="center">
-  <img src="[https://play-lh.googleusercontent.com/N5dlYRWQW1QWzQk8p4aEmP25hVjK6WqjM8nU5QpxJz4ZzJfFQkXJ3ZBzU_8U4xgU0g=w240-h480-rw](https://play-lh.googleusercontent.com/KYN7fqrAif3eGM0-9W3sbKft0cLYyIkEy0lzBiIZRXiKNgkdhwxsQYaRbxRZhzd8WGGd8_T4b5FI3QhLXu7n=w480-h960-rw)" alt="Waka Chat Logo" width="150"/>
-</p>
+- 🚀 Smooth experience – Modern, user-friendly design for seamless navigation.
 
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.waka.chat.app" target="_blank">
@@ -142,18 +138,23 @@ Whether you want to join live voice rooms, share creative short videos, or inter
 
 
 <hr>
+### Zion Live
+**Zion Live** is a next-generation social platform that brings together voice, video, and **live streaming** in one dynamic app.  
+Whether you want to host live shows, join interactive voice rooms, or share short videos, Zion Live offers a vibrant community and a powerful set of tools to express yourself and connect with others worldwide.  
 
-### Malakoot | ملكوت
+✨ **Key Features**  
+- 📺 **Live streaming** – Go live and interact with your audience in real time.  
+- 🎙 **Voice chat rooms** – Join engaging conversations and connect with people instantly.  
+- 🎥 Short videos – Share creative and fun videos with the community.  
+- 💬 Real-time interactions – Comment, like, and engage with content live.  
+- 🌍 Global community – Meet and connect with users from around the world.  
+- 🚀 Sleek design – User-friendly interface for a smooth and enjoyable experience.  
 
-تطبيق "ملكوت"  هو مصدر تعليمي شامل مصمم لتقديم تجربة تعليمية مميزة وشاملة للمتعلمين في جميع المراحل الدراسية. يوفر التطبيق مجموعة متنوعة من المواد التعليمية والمصادر التعليمية التي تلبي احتياجات الطلاب والمعلمين على حد سواء. إليك وصف مفصل لميزات التطبيق:
-مناهج متعددة: التطبيق يغطي مجموعة واسعة من المواد الدراسية، بدءًا من المرحلة الابتدائية وصولاً إلى المراحل الثانوية والجامعية. يتم تقديم دروس تعليمية مخصصة لمواد مثل الرياضيات، اللغة الإنجليزية، العلوم، والتاريخ، بالإضافة إلى مواد أخرى.
-امتحانات شاملة: يمكن للمتعلمين اختبار مستوى معرفتهم من خلال امتحانات شاملة مصممة لتغطية المنهاج الدراسي. هذه الاختبارات توفر فرصة لتقييم الأداء وتحديد المجالات التي تحتاج إلى تحسين.
-فيديوهات مراجعة: يتميز التطبيق بفيديوهات مراجعة خاصة يقدمها نخبة من أفضل المدرسين. هذه الفيديوهات تساعد الطلاب على فهم المفاهيم بشكل أفضل واستعراض المواد الدراسية قبل الامتحانات النهائية.
-تخصيص المنهج: يمكن للمتعلمين تخصيص المنهج حسب احتياجاتهم الشخصية. يمكنهم اختيار المواد والدروس التي يرغبون في دراستها وتحديد الأولويات وفقًا لأهدافهم التعليمية.
-مدرسين ذوي خبرة: التطبيق يعتمد على فريق من المدرسين ذوي الخبرة والكفاءة في تقديم المعرفة بشكل مبسط ومفهوم. يساهم هؤلاء المدرسين في توجيه ومساعدة الطلاب على مر الرحلة التعليمية.
-
-<p> <a href="https://play.google.com/store/apps/details?id=com.malakoot.course" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
-
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.zion.live.wave" target="_blank">
+   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+ </a>
+</p>
 <hr>
 
 ### Mobella | موبيلا
