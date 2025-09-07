@@ -100,19 +100,24 @@ Performance Tuning    ███████████████████�
 #### **State Management**
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### **Backend & Services**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=postman&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
 
 #### **Database & Storage**
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FFA500?style=for-the-badge&logo=apache&logoColor=white)
+![SharedPreferences](https://img.shields.io/badge/SharedPreferences-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 #### **Architecture & Testing**
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-22C55E?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-FF6B35?style=for-the-badge&logo=codacy&logoColor=white)
 
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
