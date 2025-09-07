@@ -1,4 +1,5 @@
-<div style="font-family: -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Open Sans', sans-serif; line-height:1.6;">
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height:1.6;">
+
 
 <h2> Hello , I'm Mohammed Hosny 👋 </h2>
 
