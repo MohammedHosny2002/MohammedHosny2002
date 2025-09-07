@@ -57,12 +57,34 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
 
 ### 🛠 &nbsp;𝗠𝘆 Projects
 
-### Ejazah | إجازة
+### Sinad Client
 
-"Ejazah" is a platform licensed by the Ministry of Tourism for holding joint tourism and entertainment events
-Download the app for free and join thousands of people around the world receiving offers for holiday homes, private residences, leisure events, and tourist trips. It also allows you to have a tour guide for a tour around the cities.
+"Sinad Client" is an advanced platform that allows users to easily request services across multiple categories. The app focuses on providing a smooth and reliable experience, ensuring clients can quickly connect with trusted providers.  
 
-<p><a href="https://play.google.com/store/apps/details?id=com.visoft.ejazah" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/ejazah-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9/id6463008785" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.sinadapp.clients" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+  </a>
+  <a href="https://apps.apple.com/eg/app/sinad-request-a-service/id6477547322" target="_blank">
+    <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+  </a>
+</p>
+
+<hr>
+
+### Sinad Provider
+
+"Sinad Provider" empowers service providers with a seamless platform to manage and deliver services to clients efficiently. Designed for flexibility and performance, it ensures providers can grow their business with ease.  
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.sinadapp.providers" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+  </a>
+  <a href="https://apps.apple.com/eg/app/sinad-service-provider/id6477547282" target="_blank">
+    <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+  </a>
+</p>
+
 
 <hr>
 
