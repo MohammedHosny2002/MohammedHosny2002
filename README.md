@@ -1,4 +1,4 @@
-<div style="font-family: 'Noto Sans', 'Helvetica', 'Arial', sans-serif;">
+<div style="font-family: -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Open Sans', sans-serif; line-height:1.6;">
 
 <h2> Hello , I'm Mohammed Hosny 👋 </h2>
 
