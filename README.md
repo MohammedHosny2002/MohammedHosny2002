@@ -148,13 +148,14 @@ Performance Tuning    ███████████████████�
 timeline
     title Professional Journey
     
-    2019 : Started Flutter Development
-         : Mobile Application Developer
-         : Tech-Go Company
-    
+
     2022 : Flutter Developer
          : Cleverness, Saudi Arabia
          : 9 months experience
+
+    2023 : Started Flutter Development
+         : Mobile Application Developer
+         : Tech-Go Company
     
     2023 : Flutter Developer
          : Appuniq, Saudi Arabia
@@ -283,7 +284,7 @@ pie title Skills Distribution
     "Social Apps Development" : 15
     "DevOps & Deployment" : 10
 ```
-
+<!--
 ---
 
 ## 🛠 My Tech Stack
@@ -315,6 +316,7 @@ pie title Skills Distribution
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;  
 
 ---
+-->
 
 ## 📊 GitHub Analytics
 
