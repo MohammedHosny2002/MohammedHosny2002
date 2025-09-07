@@ -209,6 +209,10 @@ timeline
 | **Sinad Provider** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.providers) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-service-provider/id6477547282) |
 | **Bnoni Sway** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoni.sway) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102) |
 | **Bnoni Sway Doctors** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoniswaydoctors.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-doctors/id6479611039) |
+| **Meef Game** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.noyesrun.meef) |
+| **Zivo Party** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](#) |
+| **Jimo Live** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jimo.app.live) |
+| **Veego Chat** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](#) |
 | **Waka Chat** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.waka.chat.app) |
 | **Zion Live** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zion.live.wave) |
 | **Moon Lite** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.moon.light.live) |
@@ -240,6 +244,30 @@ timeline
 > Companion app for healthcare providers to manage appointments and patient communication
 - **Features**: Appointment management, patient communication, care delivery
 - **Specialization**: Healthcare-focused mobile solution
+
+### 🎮 **Meef Game**
+> Interactive mobile gaming experience with engaging gameplay mechanics
+- **Features**: Immersive gameplay, smooth animations, competitive elements
+- **Tech Stack**: Flutter, Custom game engine, Real-time mechanics
+- **Category**: Mobile gaming with Flutter-based architecture
+
+### 🎉 **Zivo Party**
+> Social platform combining voice chat and interactive party features
+- **Features**: Group voice rooms, party games, social interactions
+- **Tech Stack**: Flutter, WebRTC, Real-time communication
+- **Specialty**: Social party platform with live interaction features
+
+### 📺 **Jimo Live**
+> Advanced live streaming platform with interactive social features
+- **Features**: HD live streaming, real-time chat, audience engagement
+- **Tech Stack**: Flutter, Video streaming APIs, WebSocket communication
+- **Innovation**: High-quality streaming with social interaction layer
+
+### 💬 **Veego Chat**
+> Modern social communication platform with voice and video capabilities
+- **Features**: Voice/video calls, group chats, multimedia sharing
+- **Tech Stack**: Flutter, WebRTC, Firebase real-time database
+- **Focus**: Seamless communication with advanced social features
 
 ### 💬 **Waka Chat**
 > Ultimate social platform combining voice and video in interactive experience
