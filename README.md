@@ -1,6 +1,3 @@
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height:1.6;">
-
-
 <h2> Hello , I'm Mohammed Hosny 👋 </h2>
 
 <div align="center">
@@ -48,7 +45,11 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
   <a href="https://drive.google.com/file/d/1H7rgkp4BauEOz5woZot1Dl91iY5ADC7h/view?usp=drivesdk" target="_blank">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-0a0a0a.svg?style=for-the-badge&logo=adobe&logoColor=white" />
   </a>
+  <a href="" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ff6f61.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
+
 
 
 <hr>
@@ -110,4 +111,3 @@ Mobella offers the premier platform for instant, online app creation and modific
 ![Android Stuido](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=android-studio)&nbsp;
 ![Xcode](https://img.shields.io/badge/-XCode-05122A?style=for-the-badge&logo=xcode)&nbsp;
 
-</div>
