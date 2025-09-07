@@ -62,7 +62,7 @@ graph LR
 ```
 Flutter & Dart        ████████████████████ 95%
 State Management      ████████████████████ 90%
-Clean Architecture    ████████████████████ 88%
+Clean Architecture    ████████████████████ 95%
 Performance Tuning    ████████████████████ 85%
 ```
 
@@ -73,25 +73,19 @@ Performance Tuning    ███████████████████�
 |------------|-------------|------------|
 | **Flutter** | ⭐⭐⭐⭐⭐ | 5+ years |
 | **Dart** | ⭐⭐⭐⭐⭐ | 5+ years |
-| **BLoC/Cubit** | ⭐⭐⭐⭐⭐ | 4+ years |
-| **Provider** | ⭐⭐⭐⭐ | 4+ years |
+| **State Management** (BLoC/Cubit, Provider, GetX) | ⭐⭐⭐⭐⭐ | 4+ years |
 | **Firebase** | ⭐⭐⭐⭐⭐ | 5+ years |
-| **Supabase** | ⭐⭐⭐⭐ | 3+ years |
 | **REST API** | ⭐⭐⭐⭐⭐ | 5+ years |
-| **SQLite** | ⭐⭐⭐⭐ | 4+ years |
-| **Hive** | ⭐⭐⭐⭐ | 3+ years |
 | **Clean Architecture** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Git Version Control** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Supabase** | ⭐⭐⭐⭐ | 3+ years |
+| **Local Storage** (SQLite, Hive) | ⭐⭐⭐⭐ | 3+ years |
 | **Unit Testing** | ⭐⭐⭐⭐ | 3+ years |
 | **UI/UX Design** | ⭐⭐⭐⭐ | 5+ years |
-| **Git Version Control** | ⭐⭐⭐⭐⭐ | 5+ years |
 | **Android Studio** | ⭐⭐⭐⭐⭐ | 5+ years |
 | **VS Code** | ⭐⭐⭐⭐⭐ | 5+ years |
 | **Xcode** | ⭐⭐⭐⭐ | 4+ years |
 | **Postman** | ⭐⭐⭐⭐ | 4+ years |
-| **Jira** | ⭐⭐⭐⭐ | 3+ years |
-| **Trello** | ⭐⭐⭐⭐ | 4+ years |
-| **ClickUp** | ⭐⭐⭐ | 2+ years |
-| **Notion** | ⭐⭐⭐⭐ | 3+ years |
 
 </details>
 
