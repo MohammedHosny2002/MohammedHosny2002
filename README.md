@@ -202,14 +202,15 @@ timeline
 
 ### 🏆 **Production Apps**
 
-| App | Platform | Downloads | Rating |
-|-----|----------|-----------|---------|
-| **Sinad Client** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.clients) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-request-a-service/id6477547322) | 10K+ | ⭐ 4.5 |
-| **Sinad Provider** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.providers) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-service-provider/id6477547282) | 8K+ | ⭐ 4.6 |
-| **Bnoni Sway** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoni.sway) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102) | 15K+ | ⭐ 4.7 |
-| **Waka Chat** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.waka.chat.app) | 5K+ | ⭐ 4.4 |
-| **Zion Live** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zion.live.wave) | 12K+ | ⭐ 4.5 |
-| **Moon Lite** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.moon.light.live) | 3K+ | ⭐ 4.3 |
+| App | Platform |
+|-----|----------|
+| **Sinad Client** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.clients) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-request-a-service/id6477547322) |
+| **Sinad Provider** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.providers) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-service-provider/id6477547282) |
+| **Bnoni Sway** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoni.sway) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102) |
+| **Bnoni Sway Doctors** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoniswaydoctors.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-doctors/id6479611039) |
+| **Waka Chat** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.waka.chat.app) |
+| **Zion Live** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zion.live.wave) |
+| **Moon Lite** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.moon.light.live) |
 
 </div>
 
