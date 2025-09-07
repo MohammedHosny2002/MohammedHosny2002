@@ -29,6 +29,13 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
 
 <hr>
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammedhosny&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+
   
 <p>
   <a href="https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
