@@ -206,5 +206,8 @@ It provides a creative and engaging environment where users can communicate, sha
 ![Xcode](https://img.shields.io/badge/-XCode-05122A?style=for-the-badge&logo=xcode)&nbsp;  
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman)&nbsp;  
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=for-the-badge&logo=jira)&nbsp;  
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello)&nbsp;  
+![ClickUp](https://img.shields.io/badge/-ClickUp-05122A?style=for-the-badge&logo=clickup)&nbsp;  
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;  
 
 
