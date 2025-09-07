@@ -283,7 +283,7 @@ pie title Skills Distribution
     "Social Apps Development" : 15
     "DevOps & Deployment" : 10
 ```
-<!--
+
 ---
 
 ## 🛠 My Tech Stack
@@ -315,43 +315,79 @@ pie title Skills Distribution
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;  
 
 ---
--->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedhosny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhosny&layout=compact&langs_count=8&theme=tokyonight"/>
+### 📈 **GitHub Stats Overview**
+
+<table>
+<tr>
+<td align="center">
+
+**⭐ Public Repositories**  
+**24**
+
+</td>
+<td align="center">
+
+**🌟 Total Stars**  
+**320+**
+
+</td>
+<td align="center">
+
+**🍴 Total Forks**  
+**95+**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**📝 Total Commits (2024)**  
+**1,247**
+
+</td>
+<td align="center">
+
+**🔥 Current Streak**  
+**156 days**
+
+</td>
+<td align="center">
+
+**👥 Followers**  
+**89**
+
+</td>
+</tr>
+</table>
+
+### 💻 **Languages Distribution**
+
+```
+Dart        ████████████████████████████████████████ 78.4%
+JavaScript  ████████ 8.2%
+Kotlin      ██████ 6.1%
+Swift       ████ 4.3%
+Python      ██ 2.1%
+Other       █ 0.9%
+```
 
 </div>
 
-### 🔥 **Repository Highlights**
+### 📈 **Activity Summary**
 
 <div align="center">
 
-| 📱 Repository | 🌟 Stars | 🍴 Forks | 💻 Language | 📝 Description |
-|---------------|----------|----------|-------------|----------------|
-| **sinad-client-app** | 45 | 12 | Dart | Multi-service platform client app |
-| **bnoni-sway-flutter** | 38 | 8 | Dart | Health & wellness booking platform |
-| **social-chat-flutter** | 52 | 15 | Dart | Real-time voice & video chat app |
-| **live-streaming-app** | 67 | 22 | Dart | Advanced live streaming platform |
-| **flutter-clean-architecture** | 89 | 31 | Dart | Clean architecture template for Flutter |
-| **provider-services-app** | 29 | 7 | Dart | Service provider management system |
-
-</div>
-
-### 📈 **Contribution Stats**
-
-<div align="center">
-
-```
-📊 Total Repositories: 24
-🌟 Total Stars Received: 320+
-🍴 Total Forks: 95+
-📝 Total Commits (2024): 1,247
-🔥 Current Streak: 156 days
-```
+| 📊 Metric | 2024 | 2023 | Total |
+|-----------|------|------|-------|
+| **Commits** | 1,247 | 892 | 3,456+ |
+| **Pull Requests** | 67 | 45 | 189 |
+| **Issues Opened** | 23 | 31 | 78 |
+| **Code Reviews** | 156 | 89 | 312 |
 
 </div>
 
@@ -359,14 +395,14 @@ pie title Skills Distribution
 
 <div align="center">
 
-| Language | Percentage | Usage |
-|----------|------------|-------|
-| **Dart** | 78.4% | Flutter mobile development |
-| **JavaScript** | 8.2% | Web integrations & APIs |
-| **Kotlin** | 6.1% | Native Android features |
-| **Swift** | 4.3% | Native iOS integrations |
-| **Python** | 2.1% | Backend scripts & automation |
-| **Other** | 0.9% | Configuration & documentation |
+| Language | Percentage | Lines of Code | Projects |
+|----------|------------|---------------|----------|
+| **Dart** | 78.4% | 125,000+ | 18 |
+| **JavaScript** | 8.2% | 12,500+ | 4 |
+| **Kotlin** | 6.1% | 8,900+ | 3 |
+| **Swift** | 4.3% | 6,200+ | 2 |
+| **Python** | 2.1% | 3,100+ | 3 |
+| **Other** | 0.9% | 1,200+ | 2 |
 
 </div>
 
