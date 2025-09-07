@@ -27,7 +27,7 @@ I am a **Software Engineer and Mobile Application Developer** with **5 years of 
 * **Mobile Application Developer | Tech-Go** (1 year)
   Participated in multiple mobile projects, ensuring timely delivery and high-quality implementations.
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammedhosny&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 <hr>
