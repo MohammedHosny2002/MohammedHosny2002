@@ -118,13 +118,28 @@ With Bnoni Sway, users can explore services, book appointments, and manage their
 
 <hr>
 
-### Supmedical
-Introducing our groundbreaking medical tools application, designed to streamline access to essential supplies from top-rated stores. Our platform offers users unparalleled convenience, connecting them with renowned and trustworthy suppliers for the best service and prices. Revolutionizing the way medical tools are sourced and purchased, we're dedicated to enhancing efficiency and accessibility in the healthcare industry.
+### Waka Chat
+**Waka Chat** is the ultimate social platform that combines voice and video in one interactive experience!  
+Whether you want to join live voice rooms, share creative short videos, or interact with a vibrant community, Waka Chat offers you a dynamic space for communication, creativity, and building meaningful connections.  
+
+✨ **Key Features**  
+- 🎙 Interactive voice rooms – Join live conversations, discuss your favorite topics, and connect with others in real time.  
+- 🎥 Short video sharing – Express yourself and your creativity with engaging short videos.  
+- 💬 Content interaction – Like, comment, and share videos and audios for a richer social experience.  
+- 🔒 Advanced privacy & security – Full control over your data and settings.  
+- 🌍 Global community – Connect with diverse users worldwide.  
+- 🚀 Smooth experience – Modern, user-friendly design for seamless navigation.  
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/N5dlYRWQW1QWzQk8p4aEmP25hVjK6WqjM8nU5QpxJz4ZzJfFQkXJ3ZBzU_8U4xgU0g=w240-h480-rw" alt="Waka Chat Logo" width="150"/>
+</p>
 
 <p>
+ <a href="https://play.google.com/store/apps/details?id=com.waka.chat.app" target="_blank">
+   <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+ </a>
+</p>
 
-  <a href="https://play.google.com/store/apps/details?id=com.visooft.supmedical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-<a href="https://apps.apple.com/us/app/supmedical/id6470377732" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
