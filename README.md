@@ -209,7 +209,7 @@ timeline
 | **Sinad Provider** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.providers) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-service-provider/id6477547282) |
 | **Bnoni Sway** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoni.sway) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102) |
 | **Bnoni Sway Doctors** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoniswaydoctors.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-doctors/id6479611039) |
-| **Meef Game** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.noyesrun.meef) |
+| **CoCo Jumbo** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.noyesrun.meef) |
 | **Zivo Party** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](#) |
 | **Jimo Live** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jimo.app.live) |
 | **Veego Chat** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](#) |
@@ -245,7 +245,7 @@ timeline
 - **Features**: Appointment management, patient communication, care delivery
 - **Specialization**: Healthcare-focused mobile solution
 
-### 🎮 **Meef Game**
+### 🎮 **CoCo Jumbo**
 > Interactive mobile gaming experience with engaging gameplay mechanics
 - **Features**: Immersive gameplay, smooth animations, competitive elements
 - **Tech Stack**: Flutter, Custom game engine, Real-time mechanics
