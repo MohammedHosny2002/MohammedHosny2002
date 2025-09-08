@@ -151,13 +151,13 @@ timeline
     2022 : Mobile Application Developer
          : Cleverness, Saudi Arabia
          : 9 months experience
-
-    2023 : Mobile Application Developer
-         : Tech-Go, United Arab Emirates
-         : 1 year experience
     
-    2023 : Flutter Developer
+    2023 : Mobile Application Developer
          : Appuniq, Saudi Arabia
+         : 1 year experience
+
+    2024 : Mobile Application Developer
+         : Tech-Go, United Arab Emirates
          : 1 year experience
     
     2024 : Team Leader
