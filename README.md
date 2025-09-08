@@ -176,7 +176,7 @@ timeline
 <td width="50%">
 
 #### 🚀 **UTD Software Company**
-**Team Leader** _(1 year - Present)_
+**Team Leader** _(04/2024 - Present)_
 - Leading development teams
 - Overseeing projects from concept to delivery
 - Ensuring high-quality code implementation
@@ -185,7 +185,7 @@ timeline
 <td width="50%">
 
 #### 📱 **Sinad, Saudi Arabia** 
-**Flutter Developer** _(4 months - Present)_
+**Flutter Developer** _(02/2025 - Present)_
 - Advanced mobile applications development
 - Performance and user experience focus
 - Cross-functional team collaboration
