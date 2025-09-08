@@ -148,13 +148,13 @@ timeline
     title Professional Journey
     
 
-    2022 : Flutter Developer
+    2022 : Mobile Application Developer
          : Cleverness, Saudi Arabia
          : 9 months experience
 
-    2023 : Flutter Developer
-         : Mobile Application Developer
-         : Tech-Go Company
+    2023 : Mobile Application Developer
+         : Tech-Go, United Arab Emirates
+         : 1 year experience
     
     2023 : Flutter Developer
          : Appuniq, Saudi Arabia
@@ -164,7 +164,7 @@ timeline
          : UTD Software Company
          : 04/2024 - Present
 
-    2025 : Flutter Developer
+    2025 : Mobile Application Developer
          : Sinad, Saudi Arabia
          : 02/2025 - Present
 ```
