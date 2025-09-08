@@ -162,11 +162,11 @@ timeline
     
     2024 : Team Leader
          : UTD Software Company
-         : 1 year - Present
+         : 04/2024 - Present
 
     2025 : Flutter Developer
          : Sinad, Saudi Arabia
-         : 4 months - Present
+         : 02/2025 - Present
 ```
 
 ### 🏢 **Current Positions**
