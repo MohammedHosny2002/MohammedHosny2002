@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhosny009@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201550218882)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mo7ammedHosny)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MHosny24)
 [![Resume](https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1H7rgkp4BauEOz5woZot1Dl91iY5ADC7h/view)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-io-10f01.web.app/)
 
@@ -418,7 +418,7 @@ mindmap
 [![Email](https://img.shields.io/badge/Email-mohammedhosny009@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhosny009@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Hosny-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hosny-93b790227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+201550218882-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201550218882)
-[![Telegram](https://img.shields.io/badge/Telegram-Mo7ammedHosny-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mo7ammedHosny)
+[![Telegram](https://img.shields.io/badge/Telegram-MHosny24-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MHosny24)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-black?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1H7rgkp4BauEOz5woZot1Dl91iY5ADC7h/view?usp=drivesdk)
 
 </div>
