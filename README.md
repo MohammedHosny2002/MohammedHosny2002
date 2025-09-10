@@ -35,7 +35,7 @@
 
 ## 🚀 About Me
 
-> 💻 **Software Engineer | Mobile Application Developer** from Egypt with **5+ years** of experience in building, leading, and delivering high-quality mobile applications
+> 💻 **Software Engineer | Mobile Application Developer** from Egypt with **4+ years** of experience in building, leading, and delivering high-quality mobile applications
 
 - 🎯 **Expertise**: Cross-platform mobile apps (Android, iOS)
 - 📱 **Specialization**: Flutter development, exploring new technologies
@@ -76,19 +76,19 @@ Performance Tuning    ███████████████████�
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| **Flutter** | ⭐⭐⭐⭐⭐ | 5+ years |
-| **Dart** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Flutter** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Dart** | ⭐⭐⭐⭐⭐ | 4+ years |
 | **State Management** (BLoC/Cubit, Provider, GetX) | ⭐⭐⭐⭐⭐ | 4+ years |
-| **Firebase** | ⭐⭐⭐⭐⭐ | 5+ years |
-| **REST API** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Firebase** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **REST API** | ⭐⭐⭐⭐⭐ | 4+ years |
 | **Clean Architecture** | ⭐⭐⭐⭐⭐ | 4+ years |
-| **Git Version Control** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Git Version Control** | ⭐⭐⭐⭐⭐ | 4+ years |
 | **Supabase** | ⭐⭐⭐⭐ | 3+ years |
 | **Local Storage** (SQLite, Hive) | ⭐⭐⭐⭐ | 3+ years |
 | **Unit Testing** | ⭐⭐⭐⭐ | 3+ years |
-| **UI/UX Design** | ⭐⭐⭐⭐ | 5+ years |
-| **Android Studio** | ⭐⭐⭐⭐⭐ | 5+ years |
-| **VS Code** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **UI/UX Design** | ⭐⭐⭐⭐ | 4+ years |
+| **Android Studio** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **VS Code** | ⭐⭐⭐⭐⭐ | 4+ years |
 | **Xcode** | ⭐⭐⭐⭐ | 4+ years |
 | **Postman** | ⭐⭐⭐⭐ | 4+ years |
 
@@ -383,7 +383,7 @@ pie title Skills Distribution
 mindmap
   root((Mohammed Hosny))
     🎯 Expertise
-      5+ Years Experience
+      4+ Years Experience
       Production Apps
       Team Leadership
     🤝 Collaboration
