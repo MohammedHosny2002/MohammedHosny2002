@@ -1,33 +1,24 @@
 <div id="header" align="center">
   <h1>
     <p align="center">
-      
-# 👋 Mohammed Hosny - Flutter Developer
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Mohammed+Hosny" /></a> -->
-</p>
-</h2>
-  <!-- <div id="badges"> -->
+      # 👋 Mohammed Hosny - Flutter Developer
+    </p>
+  </h2>
 
-<!-- <div align="center"> -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="230"/>
+  </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="230"/>
-</div>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Flutter+Developer;Software+Engineer;Team+Leader;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Flutter+Developer;Software+Engineer;Team+Leader;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hosny-93b790227/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhosny009@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201550218882)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MHosny24)
-[![Resume](https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1bSr3G5tztGOtNVyTA1x2olhmjYnupDwg/view?usp=drive_link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-io-10f01.web.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hosny-93b790227/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhosny009@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201550218882)
+  [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MHosny24)
+  [![Resume](https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1bSr3G5tztGOtNVyTA1x2olhmjYnupDwg/view?usp=drive_link)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-io-10f01.web.app/)
 
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohammedhosny&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mohammedhosny&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -38,10 +29,10 @@
 > 💻 **Software Engineer | Mobile Application Developer** from Egypt with **4+ years** of experience in building, leading, and delivering high-quality mobile applications
 
 - 🎯 **Expertise**: Cross-platform mobile apps (Android, iOS)
-- 📱 **Specialization**: Flutter development, exploring new technologies
+- 📱 **Specialization**: Flutter development, Clean Architecture, and modern best practices
 - 🏆 **Achievement**: Team Leader at UTD Software Company
 - 🎓 **Education**: Software Engineer and Mobile Application Developer
-- 👨‍🏫 **Leadership**: Leading development teams, ensuring high-quality code
+- 👨‍🏫 **Leadership**: Leading development teams, ensuring high-quality code and scalable solutions
 
 ```mermaid
 graph LR
@@ -50,7 +41,7 @@ graph LR
     C --> D[🧪 Testing]
     D --> E[🚀 Deployment]
     E --> F[📊 Analytics]
-    
+
     style A fill:#FF6B6B
     style B fill:#4ECDC4
     style C fill:#45B7D1
@@ -111,7 +102,6 @@ Performance Tuning    ███████████████████�
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=postman&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
 
 #### **Database & Storage**
@@ -151,27 +141,34 @@ Performance Tuning    ███████████████████�
 ```mermaid
 timeline
     title Professional Journey
-    
 
     2022 : Mobile Application Developer
-         : Cleverness, Saudi Arabia
-         : 9 months experience
-    
+         : Appuniq, Cairo, Egypt
+         : 1 year experience
+
     2023 : Mobile Application Developer
-         : Appuniq, Saudi Arabia
-         : 1 year experience
+         : CLEVERNESS AGENCY, Saudi Arabia
+         : 10 months experience
 
-    2024 : Mobile Application Developer
-         : Tech-Go, United Arab Emirates
-         : 1 year experience
-    
-    2024 : Team Leader
-         : UTD Software Company
-         : 04/2024 - Present
+    2023-2024 : Mobile Application Developer
+         : Nofal SEO, Menoufia, Egypt
+         : 5 months experience
 
-    2025 : Mobile Application Developer
-         : Sinad, Saudi Arabia
+    2024-2025 : Mobile Application Developer
+         : Tech Go, UAE
+         : 10 months experience
+
+    2024-2026 : Team Leader & Mobile Application Developer
+         : UTD Software Company, Giza, Egypt
+         : 1 year 10 months
+
+    2025-Present : Mobile Application Developer
+         : SINAD App, Saudi Arabia
          : 02/2025 - Present
+
+    2025-Present : Mobile Application Developer
+         : Sourcya, Alexandria, Egypt
+         : 11/2025 - Present
 ```
 
 ### 🏢 **Current Positions**
@@ -180,20 +177,20 @@ timeline
 <tr>
 <td width="50%">
 
-#### 🚀 **UTD Software Company**
-**Team Leader** _(04/2024 - Present)_
-- Leading development teams
-- Overseeing projects from concept to delivery
-- Ensuring high-quality code implementation
+#### 🚀 **Sourcya**
+**Mobile Application Developer** _(11/2025 - Present)_
+- Contributing to cross-platform mobile applications
+- Building scalable and maintainable solutions
+- Remote work from Alexandria, Egypt
 
 </td>
 <td width="50%">
 
-#### 📱 **Sinad, Saudi Arabia** 
-**Flutter Developer** _(02/2025 - Present)_
-- Advanced mobile applications development
-- Performance and user experience focus
-- Cross-functional team collaboration
+#### 📱 **SINAD App**
+**Mobile Application Developer** _(02/2025 - Present)_
+- Leading development of Sinad mobile platform
+- Dual-app ecosystem for service requests
+- Real-time tracking and notifications
 
 </td>
 </tr>
@@ -211,89 +208,90 @@ timeline
 |-----|----------|
 | **Sinad Client** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.clients) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-request-a-service/id6477547322) |
 | **Sinad Provider** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinadapp.providers) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/sinad-service-provider/id6477547282) |
-| **Bnoni Sway** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoni.sway) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102) |
+| **TMTGPS** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.tmt.track.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/tmtgps/id6453688070) |
+| **Kold** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.kold.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/kold/id6754703360) |
+| **Nasni** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.nasni.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/nasni/id6754703562) |
+| **Mada'n Workforce** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.madaan.workforce.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/madan-workforce/id6757802559) |
 | **Bnoni Sway Doctors** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoniswaydoctors.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-doctors/id6479611039) |
-| **CoCo Jumbo** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.noyesrun.meef) |
-| **Jimo Live** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jimo.app.live) |
-| **Zion Live** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zion.live.wave) |
-| **Moon Lite** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.moon.light.live) |
-| **Aldaan Alearabiu** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.arabic.mutton) |
-| **Wjhtak** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.wjhtak.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/id6590636750) |
-| **Shattoor** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appuniq.shattoorapp) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/shattoor/id6478968853) |
+| **Bnoni Sway Users** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bnoni.sway) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bnoni-sway-%D8%A8%D9%86%D9%88%D9%86%D9%8A-%D8%B3%D9%88%D8%A7%D9%8A/id6479611102) |
+| **Arabic Mutton** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.arabic.mutton) |
+| **Wjhtak** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.wjhtak.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D9%88%D8%AC%D9%87%D8%AA%D9%83/id6590636750) |
+| **Shattoor** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appuniq.shattoorapp) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%B4%D8%B7%D9%88%D8%B1-shattoor/id6478968853) |
+| **Vibe Life** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=vibe%20life&c=apps) |
+| **Sophia Chat** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sophia.chat) |
 
 </div>
-
-
-
 
 <details>
 <summary><strong>📝 Project Details</strong></summary>
 
 ### 🏖️ **Sinad Client**
-> Advanced platform that allows users to easily request services across multiple categories
-- **Features**: Multi-category services, trusted providers connection, smooth user experience
-- **Tech Stack**: Flutter, Firebase, REST API, Clean Architecture
-- **Achievement**: Successfully deployed on both Android and iOS with 10K+ downloads
+> Smart and user-friendly mobile application that enables users to easily request services, track requests in real-time, and receive instant updates
+- **Features**: Multi-category services, trusted providers connection, real-time tracking, instant notifications
+- **Tech Stack**: Flutter, Firebase, REST API, Clean Architecture, BLoC
+- **Achievement**: Successfully deployed on both Android and iOS
 
-### 👨‍💼 **Sinad Provider**
-> Empowers service providers with seamless platform to manage and deliver services
-- **Features**: Service management, client communication, business growth tools
+### 👨‍💼 **Sinad Service Provider**
+> Dedicated mobile application for professionals to receive service requests, manage daily tasks, and track job progress in real-time
+- **Features**: Service management, client communication, real-time tracking, performance monitoring
 - **Architecture**: Clean Architecture with BLoC state management
 - **Impact**: Helping providers grow their business efficiently
 
-### 🏥 **Bnoni Sway**
-> Health and wellness services platform ensuring convenience and accessibility
-- **Features**: Health services, appointment booking, wellness management
-- **Tech Stack**: Flutter, Firebase, Advanced UI/UX
-- **Users**: 15K+ active users across both platforms
+### 🚗 **TMTGPS**
+> Professional fleet and asset tracking application used across Saudi Arabia
+- **Features**: Real-time GPS monitoring, automated alerts, performance insights, comprehensive reporting
+- **Tech Stack**: Flutter, Google Maps, Geolocation, Geofencing, WebSockets
+- **Deployment**: Used across Saudi Arabia for fleet optimization
+
+### 🌡️ **Kold**
+> Smart monitoring application for tracking temperature and humidity across warehouses and sensitive storage areas
+- **Features**: Live readings, instant alerts, historical reports, actionable insights
+- **Focus**: Asset safety and optimal storage conditions
+
+### 🏥 **Nasni**
+> Smart indoor tracking solution for real-time monitoring of assets and people within buildings
+- **Features**: Live map tracking, instant alerts, dashboard insights, detailed reports
+- **Use Cases**: Hospitals, offices, warehouses, and other facilities
+
+### 👷 **Mada'n Workforce**
+> Smart workforce management application for coordinating jobs, tasks, and operations in real time
+- **Features**: Centralized dashboard, proof of work, structured workflows, task tracking
+- **Impact**: Operational excellence across multiple sites
 
 ### 👩‍⚕️ **Bnoni Sway Doctors**
-> Companion app for healthcare providers to manage appointments and patient communication
-- **Features**: Appointment management, patient communication, care delivery
-- **Specialization**: Healthcare-focused mobile solution
+> Specialized medical app for gynecology doctors and patients seeking non-emergency consultations
+- **Features**: Real-time question dispatch, seamless communication, doctor verification, rating systems
+- **Specialty**: Healthcare-focused mobile solution, completely free
 
-### 🎮 **CoCo Jumbo**
-> Interactive mobile gaming experience with engaging gameplay mechanics
-- **Features**: Immersive gameplay, smooth animations, competitive elements
-- **Tech Stack**: Flutter, Custom game engine, Real-time mechanics
-- **Category**: Mobile gaming with Flutter-based architecture
+### 👤 **Bnoni Sway Users**
+> Provides users with seamless access to gynecology medical consultations
+- **Features**: Submit questions, receive real-time responses, track answers
+- **Focus**: Smooth, accessible, and free healthcare experience
 
-### 🎉 **Zivo Party**
-> Social platform combining voice chat and interactive party features
-- **Features**: Group voice rooms, party games, social interactions
-- **Tech Stack**: Flutter, WebRTC, Real-time communication
-- **Specialty**: Social party platform with live interaction features
+### 🐑 **Arabic Mutton**
+> Go-to app for ordering slaughtered animals and 'Aqiqah' services quickly and securely
+- **Features**: Schedule recurring orders, safe e-payment, religious and festive occasions
+- **Specialty**: Simplifying religious and festive occasions
 
-### 📺 **Jimo Live**
-> Advanced live streaming platform with interactive social features
-- **Features**: HD live streaming, real-time chat, audience engagement
-- **Tech Stack**: Flutter, Video streaming APIs, WebSocket communication
-- **Innovation**: High-quality streaming with social interaction layer
-<!--
-### 💬 **Veego Chat**
-> Modern social communication platform with voice and video capabilities
-- **Features**: Voice/video calls, group chats, multimedia sharing
-- **Tech Stack**: Flutter, WebRTC, Firebase real-time database
-- **Focus**: Seamless communication with advanced social features
--->
+### ✈️ **Wjhtak**
+> Innovative travel platform connecting tourism companies with clients
+- **Features**: Domestic and international trips, hotel and flight bookings, personalized itineraries
+- **Additional**: User reviews, exclusive offers, 24/7 customer support
 
-### 💬 **Waka Chat**
-> Ultimate social platform combining voice and video in interactive experience
-- **Features**: Live voice rooms, short video sharing, real-time interactions
-- **Technology**: Advanced real-time communication, video processing
-- **Community**: Global user base with diverse interactions
+### 🎮 **Shattoor**
+> Educational app that motivates children to complete tasks and develop skills through a reward system
+- **Features**: Progress tracking, goal setting, achievement rewards
+- **Focus**: Building positive habits, self-discipline, and essential life skills
 
-### 📺 **Zion Live**
-> Next-generation social platform with voice, video, and live streaming
-- **Features**: Live streaming, voice chat rooms, real-time engagement
-- **Innovation**: Cutting-edge streaming technology, interactive features
-- **Reach**: 12K+ downloads with growing user engagement
+### 🎉 **Vibe Life**
+> Social platform combining live audio chat rooms and short video content
+- **Features**: Live discussions, creativity sharing, real-time interactions
+- **Community**: Vibrant global community in a safe environment
 
-### 🌙 **Moon Lite**
-> Modern social platform combining voice chat and short video sharing
-- **Features**: Voice chat rooms, creative video sharing, community building
-- **Design**: User-friendly interface with smooth experience
-- **Focus**: Creative expression and global connections
+### 💬 **Sophia Chat**
+> Dynamic social platform combining live audio chat rooms and short video sharing
+- **Features**: Real-time conversations, inspiring content, interactive discussions
+- **Environment**: Secure and user-friendly
 
 </details>
 
@@ -305,10 +303,11 @@ timeline
 
 | 🎯 Achievement | 📊 Impact | 🗓️ Timeline |
 |----------------|-----------|-------------|
-| **Team Leadership** | Leading development teams | 2024-Present |
-| **Production Apps** | 10+ apps on Play Store & App Store | 2020-Present |
-| **Saudi Market Expert** | 3 companies experience in Saudi | 2022-Present |
-| **Social Apps Specialist** | Multiple social platforms developed | 2023-Present |
+| **Team Leadership** | Leading development teams at UTD Software | 2024-2026 |
+| **Production Apps** | 13+ apps on Play Store & App Store | 2022-Present |
+| **Saudi Market Expert** | 3 companies experience in Saudi | 2023-Present |
+| **Enterprise Solutions** | Fleet tracking, workforce management, IoT monitoring | 2024-2026 |
+| **Social Apps Specialist** | Multiple social platforms developed | 2022-Present |
 
 </div>
 
@@ -317,43 +316,11 @@ pie title Skills Distribution
     "Flutter Development" : 35
     "Team Leadership" : 20
     "Architecture & Design" : 20
-    "Social Apps Development" : 15
+    "Enterprise Solutions" : 15
     "DevOps & Deployment" : 10
 ```
-<!--
+
 ---
-
-## 🛠 My Tech Stack
-
-#### 🚀 Skills  
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;  
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)&nbsp;  
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;  
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=for-the-badge&logo=supabase)&nbsp;  
-![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=for-the-badge&logo=fastapi)&nbsp;  
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;  
-![Hive](https://img.shields.io/badge/-Hive-05122A?style=for-the-badge&logo=hive)&nbsp;  
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=for-the-badge&logo=vercel)&nbsp;  
-![Bloc](https://img.shields.io/badge/-BLoC-05122A?style=for-the-badge&logo=flutter)&nbsp;  
-![Provider](https://img.shields.io/badge/-Provider-05122A?style=for-the-badge&logo=flutter)&nbsp;  
-![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-05122A?style=for-the-badge&logo=testinglibrary)&nbsp;  
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-05122A?style=for-the-badge&logo=figma)&nbsp;  
-
-#### 🧰 Tools  
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;  
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=android-studio)&nbsp;  
-![Xcode](https://img.shields.io/badge/-XCode-05122A?style=for-the-badge&logo=xcode)&nbsp;  
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman)&nbsp;  
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=for-the-badge&logo=jira)&nbsp;  
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello)&nbsp;  
-![ClickUp](https://img.shields.io/badge/-ClickUp-05122A?style=for-the-badge&logo=clickup)&nbsp;  
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;  
-
--->
----
-
 
 ## 📊 GitHub Analytics
 
@@ -391,7 +358,7 @@ mindmap
       Cross-functional Teams
       Problem Solving
     🚀 Innovation
-      Social Apps
+      Enterprise Solutions
       Modern Technologies
       Continuous Learning
     📱 Specialization
@@ -403,10 +370,11 @@ mindmap
 </div>
 
 ### ✨ **Core Strengths**
-- 🎯 **Proven Track Record**: 10+ production apps with 50K+ combined downloads
-- 👥 **Team Leadership**: Currently leading development teams at UTD Software
+- 🎯 **Proven Track Record**: 13+ production apps deployed on both platforms
+- 👥 **Team Leadership**: Successfully led development teams at UTD Software
 - 🌍 **International Experience**: 3+ years experience in Saudi Arabian market
-- 🏗️ **Architecture Expert**: Clean Architecture and modern development practices
+- 🏗️ **Architecture Expert**: Clean Architecture, MVVM, MVC, SOLID principles
+- 🏢 **Enterprise Solutions**: Fleet tracking, workforce management, IoT monitoring
 - 💬 **Social Apps Specialist**: Expert in real-time communication and streaming apps
 
 ---
@@ -431,6 +399,6 @@ mindmap
 
 **⭐ Star this repository if you found it helpful!**
 
-*Last updated: September 2025*
+*Last updated: February 2026*
 
 </div>
