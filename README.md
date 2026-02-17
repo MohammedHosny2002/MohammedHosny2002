@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>
     <p align="center">
-      # 👋 Mohammed Hosny - Flutter Developer
+      👋 Mohammed Hosny - Flutter Developer
     </p>
   </h2>
 
