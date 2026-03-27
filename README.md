@@ -217,8 +217,6 @@ timeline
 | **Arabic Mutton** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.arabic.mutton) |
 | **Wjhtak** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.wjhtak.app) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D9%88%D8%AC%D9%87%D8%AA%D9%83/id6590636750) |
 | **Shattoor** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appuniq.shattoorapp) [![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%B4%D8%B7%D9%88%D8%B1-shattoor/id6478968853) |
-| **Vibe Life** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=vibe%20life&c=apps) |
-| **Sophia Chat** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sophia.chat) |
 
 </div>
 
@@ -282,16 +280,6 @@ timeline
 > Educational app that motivates children to complete tasks and develop skills through a reward system
 - **Features**: Progress tracking, goal setting, achievement rewards
 - **Focus**: Building positive habits, self-discipline, and essential life skills
-
-### 🎉 **Vibe Life**
-> Social platform combining live audio chat rooms and short video content
-- **Features**: Live discussions, creativity sharing, real-time interactions
-- **Community**: Vibrant global community in a safe environment
-
-### 💬 **Sophia Chat**
-> Dynamic social platform combining live audio chat rooms and short video sharing
-- **Features**: Real-time conversations, inspiring content, interactive discussions
-- **Environment**: Secure and user-friendly
 
 </details>
 
